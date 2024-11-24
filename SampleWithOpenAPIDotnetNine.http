@@ -1,0 +1,6 @@
+@SampleWithOpenAPIDotnetNine_HostAddress = http://localhost:5022
+
+GET {{SampleWithOpenAPIDotnetNine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "q20CspWsif3eoIgN9rvH7Lj5rJU2xS2cjWEAcvYK2OY=",
+  "Source": "SampleWithOpenAPIDotnetNine",
+  "BasePath": "_content/SampleWithOpenAPIDotnetNine",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
